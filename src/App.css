@@ -1,7 +1,14 @@
 .App {
   text-align: center;
 }
+.carte
+{
+  margin-top: 20px;
+  width: 25%;
+  height: 200px;
+  float: left;
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
